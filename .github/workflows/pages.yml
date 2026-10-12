@@ -24,7 +24,7 @@ jobs:
       - name: Package the static resume
         run: |
           mkdir _site
-          cp index.html app.js theme.css custom.css favicon.svg LICENSE.md _site/
+          cp index.html app.js theme.css custom.css favicon.svg profile.jpg LICENSE.md _site/
           cp -R en _site/en
       - name: Upload site
         uses: actions/upload-pages-artifact@v4

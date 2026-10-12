@@ -4,6 +4,14 @@ Tsubasa Okawa Resume
 
 Japanese and English resume, using the Online CV / Orbit theme by Xiaoying Riley and the Jekyll adaptation by sharu725. The required footer attribution is preserved. See LICENSE.md.
 
+## Published site / 公開ページ
+
+- [日本語の履歴書](https://tokawa0213.github.io/my-resume/)
+- [English resume](https://tokawa0213.github.io/my-resume/en/)
+
+ページ上部の「日本語 / English」で表示言語を切り替えられます。
+Use 日本語 / English at the top of the page to switch languages.
+
 ## Pages
 
 - Japanese: index.html

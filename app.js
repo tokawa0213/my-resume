@@ -1,4 +1,4 @@
-document.querySelector('.print-control')?.addEventListener('click',()=>window.print());
+document.querySelector('button.print-control')?.addEventListener('click',()=>window.print());
 // Keep the same section selected when changing between Japanese and English.
 document.querySelectorAll('.language-switch a').forEach(link=>{
  const target=new URL(link.getAttribute('href'),location.href);

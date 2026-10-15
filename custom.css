@@ -2,3 +2,5 @@
 
 .sidebar-wrapper .profile-photo{display:block;width:120px;height:120px;max-width:none;object-fit:cover;object-position:center;border:4px solid #ffffff80;border-radius:50%;margin:0 auto 20px;background:#fff}
 @media(max-width:767px){.sidebar-wrapper .profile-photo{width:100px;height:100px;margin-bottom:15px}}
+
+.pdf-download{display:inline-block;background:#2d7788;border-color:#2d7788;color:#fff;white-space:nowrap}.pdf-download:hover,.pdf-download:focus{background:#245d6a;border-color:#245d6a;color:#fff;text-decoration:none}

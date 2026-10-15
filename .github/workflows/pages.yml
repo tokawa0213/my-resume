@@ -26,6 +26,7 @@ jobs:
           mkdir _site
           cp index.html app.js theme.css custom.css favicon.svg profile.jpg LICENSE.md _site/
           cp -R en _site/en
+          cp -R pdf _site/pdf
       - name: Upload site
         uses: actions/upload-pages-artifact@v4
         with:

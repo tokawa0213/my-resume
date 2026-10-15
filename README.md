@@ -12,13 +12,13 @@ Japanese and English resume, using the Online CV / Orbit theme by Xiaoying Riley
 ページ上部の「日本語 / English」で表示言語を切り替えられます。
 Use 日本語 / English at the top of the page to switch languages.
 
-## Download PDF / PDFダウンロード
+## View CV / 職務経歴書を表示
 
 - [日本語PDF](https://tokawa0213.github.io/my-resume/pdf/ja.pdf)
 - [English PDF](https://tokawa0213.github.io/my-resume/pdf/en.pdf)
 
-各言語ページ上部のダウンロードボタンから、対応するPDFを保存できます。
-Use Download PDF at the top of each language page to save the supplied resume PDF.
+各言語ページ上部の「職務経歴書を表示 / View CV」ボタンから、対応するPDFを別タブで開けます。
+Use View CV at the top of each language page to open the corresponding resume PDF in a new tab.
 
 ## Pages
 
